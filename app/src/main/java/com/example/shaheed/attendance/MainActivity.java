@@ -95,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
                     AlertDialog alertDialog = new AlertDialog.Builder(this)
                             .create();
                     alertDialog.setTitle("FlexiSAF Attendance");
+                    alertDialog.setIcon(R.drawable.ic_check_black_24dp);
                     alertDialog.setMessage("Welcome, keep up!");
                     alertDialog.show();
 
@@ -103,6 +104,7 @@ public class MainActivity extends AppCompatActivity {
                     AlertDialog alertDialog = new AlertDialog.Builder(this)
                             .create();
                     alertDialog.setTitle("FlexiSAF Attendance");
+                    alertDialog.setIcon(R.drawable.ic_close_black_24dp);
                     alertDialog.setMessage("Welcome, please make it early tomorrow!");
                     alertDialog.show();
 
