@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Attendance</string>
+    <string name="sign_in">Scan</string>
+    <string name="enter_name">Enter Name</string>
 </resources>
